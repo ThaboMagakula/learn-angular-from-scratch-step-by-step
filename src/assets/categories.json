@@ -22,7 +22,7 @@
     {
       "slug": "angular-cli",
       "title": "Angular Cli",
-      "image": "https://cli.angular.io/images/cli-logo.svg",
+      "image": "https://user-images.githubusercontent.com/9148799/27636989-d35548ec-5c2f-11e7-8add-7d68d8d82eee.png",
       "description": "Angular cli is a command line interface to scaffold and build angular apps using nodejs style modules.",
       "tags":[
         {
